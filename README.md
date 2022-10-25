@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Working tools...***
-<p align="left">  
+<p align="center">  
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>  
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
