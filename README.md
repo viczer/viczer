@@ -28,9 +28,8 @@ Here are some ideas to get you started:
 </p>
 <hr>
 
-
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Working tools...***
-<p align="center">  
+<p align="center"> 
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>  
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
@@ -46,7 +45,7 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <hr>
-  <p align="center">
+  <p align="left">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viczer&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
